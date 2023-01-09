@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "f034d439b4143afc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c4229018b2fcfb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63a3e0ce1c3ae0c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maths/2. Linear Transformations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e10af9e17e01128c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5debbeb0b534907c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f589e4e9524387dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f58074c77e644e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b0701cbfed6f6be",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a6e4ab3178742030",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fbeca066e53f6da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9d885a494ff95b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "maths/2. Linear Transformations.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "an",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "81e07dc1478090f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff21d275f0ed71ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "maths/2. Linear Transformations.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c7346e7e3bdef47b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da710292d0ffc33a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "maths/2. Linear Transformations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "63a3e0ce1c3ae0c5",
+  "lastOpenFiles": [
+    "Excalidraw/Linear Transformations 2023-01-08 09.31.59.excalidraw.md",
+    "maths/2. Linear Transformations.md",
+    "Excalidraw/Linear Transformations 2023-01-08 10.36.55.excalidraw.md",
+    "Untitled.canvas",
+    "new note.md",
+    "another note.md"
+  ]
+}
