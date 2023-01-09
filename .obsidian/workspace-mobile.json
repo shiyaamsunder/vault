@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "1a19402ba4391bc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9376a851d4b19cd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "250cea462eb653b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maths/2. Linear Transformations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d835142a851ecd6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5c0d0fc356a33878",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e178d030999b8e9d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4d351a012f770f72",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "95c8f3d609228310",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b29ee0ae3d96f556",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "080cccbeb1fd7abd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "maths/2. Linear Transformations.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c2f69c3e2c030592",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "maths/2. Linear Transformations.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "db84e122a903af5f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "maths/2. Linear Transformations.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "250cea462eb653b4",
+  "lastOpenFiles": [
+    "Excalidraw/Linear Transformations 2023-01-08 10.36.55.excalidraw.md",
+    "maths/2. Linear Transformations.md",
+    "Excalidraw/Linear Transformations 2023-01-08 09.31.59.excalidraw.md"
+  ]
+}
