@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c4229018b2fcfb8",
+        "id": "2f7243d4a71467d9",
         "type": "tabs",
         "children": [
           {
-            "id": "63a3e0ce1c3ae0c5",
+            "id": "683ed8c0140a6c68",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a6e4ab3178742030",
@@ -156,9 +154,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "63a3e0ce1c3ae0c5",
+  "active": "683ed8c0140a6c68",
   "lastOpenFiles": [
     "Excalidraw/Linear Transformations 2023-01-08 09.31.59.excalidraw.md",
+    "Pasted image 20230107154618.png",
     "maths/2. Linear Transformations.md",
     "Excalidraw/Linear Transformations 2023-01-08 10.36.55.excalidraw.md",
     "Untitled.canvas",
